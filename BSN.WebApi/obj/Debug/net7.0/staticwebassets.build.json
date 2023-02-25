@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4BC4elo0NpyPjjd7qtCg1LWqIInIqxAPjvxBaS9Q4Ww=",
+  "Source": "BSN.WebApi",
+  "BasePath": "_content/BSN.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
